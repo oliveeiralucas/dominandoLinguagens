@@ -6,7 +6,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 
 ![Three levels of portfolio projects pyramid](three-levels-pyramid.png)
 
-## Level 1: Basic
+## Level 1: Basic (4-8 projects)
 
 ### Examples:
 - Static website
@@ -23,7 +23,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - [Note Taking App](https://andysterks.github.io/note-taking-app/)
 
 
-## Level 2: Intermediate
+## Level 2: Intermediate (Min 3 projects)
 
 ### Examples:
 - Space Invaders Game
@@ -36,7 +36,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Address Book (Contact Manager)
 
 
-## Level 3: Capstone
+## Level 3: Capstone (Min 1 projects)
 
 ### Examples
 - Facebook Clone
